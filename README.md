@@ -40,3 +40,7 @@ This project helps to understand the basic CRUD operations in Java using MySQL a
  <h2>Main Page of CRUD Console Java App</h2>
  
  
+
+https://user-images.githubusercontent.com/92617547/217155112-57109772-0034-4f40-ab07-f5901c481342.mp4
+
+
